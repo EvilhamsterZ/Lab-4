@@ -70,11 +70,11 @@ int main()
 }
 ```
 ### Скриншоты тестов
-![image](https://user-images.githubusercontent.com/90544365/135321380-f5cccbd7-3df1-4600-9269-e72dbad3b459.png)
 Первый Тест
-![image](https://user-images.githubusercontent.com/90544365/135321518-32865bd0-b2f5-4232-80b6-d5acaac9cbd0.png)
+![image](https://user-images.githubusercontent.com/90544365/135321380-f5cccbd7-3df1-4600-9269-e72dbad3b459.png)
 Второй Тест
-![image](https://user-images.githubusercontent.com/90544365/135321734-8f61cc85-f99e-4ca9-ba8d-a67f8af8d84d.png)
+![image](https://user-images.githubusercontent.com/90544365/135321518-32865bd0-b2f5-4232-80b6-d5acaac9cbd0.png)
 Третий мой личный более сложный
+![image](https://user-images.githubusercontent.com/90544365/135321734-8f61cc85-f99e-4ca9-ba8d-a67f8af8d84d.png)
 
 
